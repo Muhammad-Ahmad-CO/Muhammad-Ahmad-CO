@@ -4,327 +4,384 @@
 
 <div align="center">
 
-# Hi, I'm Muhammad Ahmad
+# 👋 Hi, I'm Muhammad Ahmad
 
-### Software Engineering Student · AI-Assisted Front-End Developer
+### 🚀 Software Engineering Student
+### 🤖 AI-Assisted Front-End Developer
 
-<p>
-  I build modern, responsive interfaces with
-  <strong>React · TypeScript · Tailwind CSS</strong>
-  and experiment with AI-assisted development workflows.
+<p align="center">
+  Building modern interfaces with
+  <b>React · TypeScript · Tailwind CSS</b>
 </p>
 
 <p>
   <a href="https://github.com/Muhammad-Ahmad-CO">
-    <img src="https://img.shields.io/badge/GitHub-Muhammad--Ahmad--CO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Muhammad--Ahmad--CO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://ahmadsportfolios.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
+
   <a href="mailto:ahmadkaimkhani40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://ahmadsportfolios.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=Muhammad-Ahmad-CO&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge"
-    alt="Profile views"
-  >
+    src="https://komarev.com/ghpvc/?username=Muhammad-Ahmad-CO&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 </div>
 
 ---
 
-## About
+# 🧑‍💻 About Me
 
-I'm a **Software Engineering student** focused on building practical digital experiences with a strong interest in front-end engineering, AI-assisted development, prompt engineering, and database-driven applications.
+I'm a **Software Engineering student** focused on building modern, responsive and practical web experiences.
 
-- **Current focus:** AI-assisted front-end development and polished responsive UIs
-- **Currently learning:** Database Management
-- **Core interests:** React, TypeScript, Tailwind CSS, prompt engineering, modern UI
-- **Portfolio:** [ahmadsportfolios.lovable.app](https://ahmadsportfolios.lovable.app/)
-- **Contact:** [ahmadkaimkhani40@gmail.com](mailto:ahmadkaimkhani40@gmail.com)
-- **Fun fact:** I enjoy decoding Christopher Nolan timelines — especially *Tenet* and *Interstellar*.
+I enjoy combining **front-end engineering, AI-assisted development, prompt engineering and database-driven applications** to turn ideas into polished digital products.
+
+- 🔭 Currently working on **AI-assisted front-end development**
+- 🌱 Currently learning **Database Management**
+- 💬 Ask me about **AI-assisted coding, React, TypeScript, Tailwind CSS and Prompt Engineering**
+- 👨‍💻 Explore my projects at **[ahmadsportfolios.lovable.app](https://ahmadsportfolios.lovable.app/)**
+- 📫 Email: **[ahmadkaimkhani40@gmail.com](mailto:ahmadkaimkhani40@gmail.com)**
+- ⚡ Fun fact: I enjoy trying to decode Christopher Nolan timelines like **Tenet** and **Interstellar**
 
 ---
 
-## Engineering Focus
+# 🎯 What I Do
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
 
-### Front-End Engineering
+<td width="50%" valign="top">
 
-Building responsive interfaces with a focus on clean structure, visual hierarchy, reusable components, and modern interaction patterns.
+### 🎨 Front-End Development
 
-**React · TypeScript · JavaScript · Tailwind CSS · Vite**
+Building modern responsive interfaces using:
 
-    </td>
-    <td width="50%" valign="top">
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
 
-### AI-Assisted Development
+</td>
 
-Using AI tools and prompt engineering to speed up ideation, implementation, debugging, prototyping, and documentation while keeping the final product intentional and maintainable.
+<td width="50%" valign="top">
 
-**AI tools · Prompt Engineering · Rapid Prototyping**
+### 🤖 AI-Assisted Development
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+Using AI tools and prompt engineering to improve:
 
-### Data & Application Layer
+- Development speed
+- UI prototyping
+- Debugging
+- Code generation
+- Product ideation
 
-Working with practical application backends, databases, and client-side data flows.
+</td>
 
-**MySQL · PostgreSQL · MongoDB · Firebase · PHP · Node.js**
+</tr>
 
-    </td>
-    <td width="50%" valign="top">
+<tr>
 
-### Product & UI Thinking
+<td width="50%" valign="top">
 
-I care about interfaces that feel clear, responsive, purposeful, and visually consistent — not just technically functional.
+### 🗄️ Software & Data Systems
 
-**Responsive UI · UX · Visual Hierarchy · Accessibility-minded Design**
+Working with:
 
-    </td>
-  </tr>
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
+- PHP
+- Node.js
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✨ UI / UX
+
+Interested in:
+
+- Modern UI
+- Responsive design
+- Visual hierarchy
+- Interactive interfaces
+- Product-focused experiences
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## Tech Stack
+# 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,nextjs,nodejs,php,python,java,cpp,c,mysql,postgres,mongodb,firebase,git,github,linux,figma,photoshop,chartjs&perline=8" alt="Technology stack">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,nextjs,nodejs,php,python,java,cpp,c,mysql,postgres,mongodb,firebase,git,github,linux,figma,photoshop,chartjs&perline=8" />
+
 </p>
 
 ---
 
-# GitHub Dashboard
+# 📊 GitHub Overview
 
 <p align="center">
-  <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad-CO&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    alt="GitHub statistics"
-  >
-  <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad-CO&layout=donut&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Top languages"
-  >
-</p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ahmad-CO&theme=github_dark"
-    alt="GitHub totals: repositories, stars, forks and issues"
-  >
-</p>
+<a href="https://github.com/Muhammad-Ahmad-CO">
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmad-CO&theme=github_dark"
-    alt="GitHub profile contribution summary"
-  >
-</p>
+<img
+  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammad-Ahmad-CO&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&logoColor=white&color=181717"
+  alt="Total Repositories"
+/>
 
----
+</a>
 
-## Repository & Language Insights
+<a href="https://github.com/Muhammad-Ahmad-CO">
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ahmad-CO&theme=github_dark"
-    alt="Languages by repository"
-  >
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ahmad-CO&theme=github_dark"
-    alt="Languages by commits"
-  >
-</p>
+<img
+  src="https://img.shields.io/github/stars/Muhammad-Ahmad-CO?affiliations=OWNER&style=for-the-badge&label=Stars%20Received&logo=github"
+  alt="Stars Received"
+/>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Ahmad-CO&theme=github_dark&utcOffset=5"
-    alt="Productive coding time"
-  >
+</a>
+
+<a href="https://github.com/Muhammad-Ahmad-CO">
+
+<img
+  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammad-Ahmad-CO&query=%24.followers&label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0E75B6"
+  alt="Followers"
+/>
+
+</a>
+
+<a href="https://github.com/Muhammad-Ahmad-CO">
+
+<img
+  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammad-Ahmad-CO&query=%24.following&label=Following&style=for-the-badge&logo=github&logoColor=white&color=6C63FF"
+  alt="Following"
+/>
+
+</a>
+
 </p>
 
 ---
 
-## Contribution Streak
+# 📈 GitHub Analytics
 
 <p align="center">
+
+<img
+  height="190"
+  src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad-CO&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"
+  alt="Muhammad Ahmad GitHub Stats"
+/>
+
+<img
+  height="190"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad-CO&layout=donut&langs_count=8&hide_border=true&theme=tokyonight"
+  alt="Top Languages"
+/>
+
+</p>
+
+---
+
+# 📊 Contribution Summary
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmad-CO&theme=tokyonight"
+  alt="GitHub Contribution Summary"
+/>
+
+</p>
+
+---
+
+# 💻 Repository Languages
+
+<p align="center">
+
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ahmad-CO&theme=tokyonight"
+  alt="Repository Languages"
+/>
+
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ahmad-CO&theme=tokyonight"
+  alt="Most Commit Language"
+/>
+
+</p>
+
+---
+
+# ⏰ Productive Time
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Ahmad-CO&theme=tokyonight&utcOffset=5"
+  alt="Productive Time"
+/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad-CO&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<a href="https://github.com/Muhammad-Ahmad-CO">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad-CO&theme=github-compact&hide_border=true&area=true&custom_title=Muhammad%20Ahmad's%20Contribution%20Graph"
+  alt="Muhammad Ahmad Contribution Activity Graph"
+/>
+
+</a>
+
+</p>
+
+---
+
+# 📊 Commit Activity
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmad-CO&theme=github_dark"
+  alt="Commit and Contribution Activity"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmad-CO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+  alt="GitHub Trophies"
+/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Muhammad-Ahmad-CO/al-fjrfoods">
   <img
-    src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad-CO&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  >
-</p>
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=al-fjrfoods&theme=tokyonight&hide_border=true"
+    alt="AL FJR Foods"
+  />
+</a>
 
----
-
-## Recent Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Muhammad-Ahmad-CO">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad-CO&theme=github-compact&hide_border=true&area=true&radius=10&height=320&days=31&custom_title=Recent%20Contribution%20Activity"
-      alt="Recent GitHub contribution activity graph"
-    >
-  </a>
-</p>
-
----
-
-## GitHub Achievements
-
-<p align="center">
+<a href="https://github.com/Muhammad-Ahmad-CO/ahmadsportfolios">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmad-CO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1"
-    alt="GitHub trophies"
-  >
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=ahmadsportfolios&theme=tokyonight&hide_border=true"
+    alt="Ahmad Portfolio"
+  />
+</a>
+
+<a href="https://github.com/Muhammad-Ahmad-CO/cement-zen">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=cement-zen&theme=tokyonight&hide_border=true"
+    alt="Cement Zen"
+  />
+</a>
+
+<a href="https://github.com/Muhammad-Ahmad-CO/monolithstudio">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=monolithstudio&theme=tokyonight&hide_border=true"
+    alt="Monolith Studio"
+  />
+</a>
+
+<a href="https://github.com/Muhammad-Ahmad-CO/hero-blossom-glow">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=hero-blossom-glow&theme=tokyonight&hide_border=true"
+    alt="Hero Blossom Glow"
+  />
+</a>
+
+<a href="https://github.com/Muhammad-Ahmad-CO/home-hearth-store">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=home-hearth-store&theme=tokyonight&hide_border=true"
+    alt="Home Hearth Store"
+  />
+</a>
+
 </p>
 
 ---
 
-# Featured Builds
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Muhammad-Ahmad-CO/ahmadsportfolios">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=ahmadsportfolios&theme=tokyonight&hide_border=true"
-      alt="Ahmad AI Specialist Portfolio"
-    >
-  </a>
-  <a href="https://github.com/Muhammad-Ahmad-CO/al-fjrfoods">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=al-fjrfoods&theme=tokyonight&hide_border=true"
-      alt="AL FJR Foods"
-    >
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Muhammad-Ahmad-CO/cement-zen">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=cement-zen&theme=tokyonight&hide_border=true"
-      alt="Cement Zen"
-    >
-  </a>
-  <a href="https://github.com/Muhammad-Ahmad-CO/monolithstudio">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmad-CO&repo=monolithstudio&theme=tokyonight&hide_border=true"
-      alt="Monolith Studio"
-    >
-  </a>
-</p>
+<a href="https://github.com/Muhammad-Ahmad-CO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Selected work
+<a href="https://twitter.com/mohammadahmadqk">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**AI Specialist Portfolio**](https://github.com/Muhammad-Ahmad-CO/ahmadsportfolios) | Premium single-page portfolio positioning Muhammad Ahmad around AI, automation and modern web engineering. | React · TypeScript · Vite · Tailwind · Framer Motion |
-| [**AL FJR Foods**](https://github.com/Muhammad-Ahmad-CO/al-fjrfoods) | Modern food-brand experience focused on premium identity, responsive design and customer-first storytelling. | React · TypeScript · Vite · Tailwind |
-| [**Cement Zen**](https://github.com/Muhammad-Ahmad-CO/cement-zen) | Climate-tech concept communicating a serious, science-led decarbonization story for the cement industry. | React · TypeScript · Vite · Tailwind · Framer Motion |
-| [**Monolith Studio**](https://github.com/Muhammad-Ahmad-CO/monolithstudio) | Premium creative-studio website focused on design craftsmanship, strategy and modern digital execution. | React · TypeScript · Vite · Tailwind · Framer Motion |
+<a href="https://instagram.com/ahmadkaimkhanii">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
----
+<a href="mailto:ahmadkaimkhani40@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## More Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Hero Blossom Glow
-
-A premium beauty and wellness digital experience with refined product storytelling, responsive layouts, soft visual language, and subtle motion.
-
-[View repository →](https://github.com/Muhammad-Ahmad-CO/hero-blossom-glow)
-
-    </td>
-    <td width="50%" valign="top">
-
-### Home Hearth Store
-
-A premium home and lifestyle storefront concept built around warmth, elegant product presentation, responsive retail UI, and future ecommerce expansion.
-
-[View repository →](https://github.com/Muhammad-Ahmad-CO/home-hearth-store)
-
-    </td>
-  </tr>
-</table>
-
----
-
-## What I Value
-
-<table>
-  <tr>
-    <td align="center"><strong>Clarity</strong><br>Simple structure and intentional UX</td>
-    <td align="center"><strong>Quality</strong><br>Polished details over rushed output</td>
-    <td align="center"><strong>Learning</strong><br>Constantly improving the stack</td>
-    <td align="center"><strong>Practicality</strong><br>Technology that solves real problems</td>
-  </tr>
-</table>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/Muhammad-Ahmad-CO">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/mohammadahmadqk">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
-  </a>
-  <a href="https://instagram.com/ahmadkaimkhanii">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:ahmadkaimkhani40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### Building · Learning · Experimenting · Shipping
+## 💙 Thanks for visiting my profile!
 
-<p>
-  <a href="https://github.com/Muhammad-Ahmad-CO">
-    <img src="https://img.shields.io/github/followers/Muhammad-Ahmad-CO?label=Followers&style=flat-square&logo=github" alt="GitHub followers">
-  </a>
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammad-Ahmad-CO&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=white"
-    alt="Public repositories"
-  >
-</p>
+### Building • Learning • Creating • Shipping
 
-<img
-  src="https://komarev.com/ghpvc/?username=Muhammad-Ahmad-CO&label=PROFILE%20VIEWS&color=1F6FEB&style=flat-square"
-  alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmad-CO&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
 
 </div>
-
-<!--
-README design notes:
-- Dynamic analytics are intentionally sourced from your public GitHub activity.
-- No fake counts or invented achievements are hard-coded.
-- Activity graph uses the current Vercel deployment.
--->
