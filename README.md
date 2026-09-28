@@ -1,35 +1,187 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">🚀 Software Engineering Student | AI-Assisted Front-End Developer (React, TypeScript, Tailwind CSS)</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ahmad-co&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ahmad-co" /> </p>
+# Hi 👋, I'm Muhammad Ahmad
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-ahmad-co" alt="muhammad-ahmad-co" /></a> </p>
+### 🚀 Software Engineering Student · AI-Assisted Front-End Developer
 
-- 🔭 I’m currently working on I’m currently working on AI-assisted front-end development and building high-performance UIs with Tailwind CSS. [Al fajr foods](https://al-fjrfoods.lovable.app/)
+**React · TypeScript · Tailwind CSS · Modern Web Experiences**
 
-- 🌱 I’m currently learning **Database Management**
-
-- 👨‍💻 All of my projects are available at [https://ahmadsportfolios.lovable.app/](https://ahmadsportfolios.lovable.app/)
-
-- 📝 I regularly write articles on [📄 I have hands-on experience architecting scalable web applications for the restaurant and legal sectors using modern frontend technologies. Additionally, I have conducted enterprise-level technical workflow surveys at Archroma Pakistan Limited and actively participated in AI-driven hackathons to solve real-world problems.](📄 I have hands-on experience architecting scalable web applications for the restaurant and legal sectors using modern frontend technologies. Additionally, I have conducted enterprise-level technical workflow surveys at Archroma Pakistan Limited and actively participated in AI-driven hackathons to solve real-world problems.)
-
-- 💬 Ask me about **💬 Ask me about AI-assisted coding, Prompt Engineering, and integrating AI tools into development workflows.**
-
-- 📫 How to reach me **ahmadkaimkhani40@gmail.com**
-
-- ⚡ Fun fact **When I'm not architecting web apps with React and TypeScript, I'm usually trying to decode the timelines in Christopher Nolan movies like Tenet and Interstellar.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohammadahmadqk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammadahmadqk" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmadkaimkhanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadkaimkhanii" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Muhammad-Ahmad-CO"><img src="https://img.shields.io/badge/GitHub-Muhammad--Ahmad--CO-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:ahmadkaimkhani40@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ahmadsportfolios.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmad-CO&label=PROFILE%20VIEWS&color=0E75B6&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ahmad-co&show_icons=true&locale=en&layout=compact" alt="muhammad-ahmad-co" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmad-co&show_icons=true&locale=en" alt="muhammad-ahmad-co" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ahmad-co&" alt="muhammad-ahmad-co" /></p>
+## 👨‍💻 About Me
+
+I'm a **Software Engineering student** focused on building modern, responsive and practical web experiences. I enjoy combining **front-end engineering, AI-assisted development and database-driven applications** to turn ideas into polished products.
+
+* 🔭 Currently working on **AI-assisted front-end development** and high-performance UI experiences.
+* 🌱 Currently learning **Database Management** and strengthening my software engineering fundamentals.
+* 💬 Ask me about **AI-assisted coding, prompt engineering, React, TypeScript, Tailwind CSS and modern UI workflows**.
+* 👨‍💻 Explore my work at **[ahmadsportfolios.lovable.app](https://ahmadsportfolios.lovable.app/)**.
+* 📫 Reach me at **[ahmadkaimkhani40@gmail.com](mailto:ahmadkaimkhani40@gmail.com)**.
+* ⚡ Fun fact: I enjoy trying to decode Christopher Nolan timelines like **Tenet** and **Interstellar**.
+
+---
+
+## 🧠 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Front-End Development</h3>
+      <p>Responsive, polished interfaces with React, TypeScript and Tailwind CSS, with attention to performance, layout and user experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Assisted Development</h3>
+      <p>Using AI tools and prompt engineering to accelerate ideation, implementation, debugging and product prototyping.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Software & Data Systems</h3>
+      <p>Building practical applications that connect front-end experiences with databases, APIs and structured business logic.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Product-Focused UI</h3>
+      <p>Turning business ideas into clean digital experiences with clear hierarchy, modern visual language and responsive design.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/Muhammad-Ahmad-CO/al-fjrfoods">AL FJR Foods</a></h3>
+      <p>Modern food-brand website focused on premium presentation, responsive UI, product storytelling and a customer-first digital experience.</p>
+      <p><b>Stack:</b> React · TypeScript · Vite · Tailwind CSS</p>
+      <p><a href="https://al-fjrfoods.lovable.app/">🌐 Live Preview</a> · <a href="https://github.com/Muhammad-Ahmad-CO/al-fjrfoods">💻 Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/Muhammad-Ahmad-CO/ahmadsportfolios">AI Specialist Portfolio</a></h3>
+      <p>Personal portfolio built around an AI-first identity, modern web engineering, animated presentation and project showcasing.</p>
+      <p><b>Stack:</b> React · TypeScript · Vite · Tailwind CSS · Framer Motion</p>
+      <p><a href="https://ahmadsportfolios.lovable.app/">🌐 Live Preview</a> · <a href="https://github.com/Muhammad-Ahmad-CO/ahmadsportfolios">💻 Source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/Muhammad-Ahmad-CO/cement-zen">Cement Zen</a></h3>
+      <p>Climate-tech website concept focused on decarbonization, industrial storytelling, impact metrics and a polished corporate experience.</p>
+      <p><b>Stack:</b> React · TypeScript · Vite · Tailwind CSS · Framer Motion</p>
+      <p><a href="https://cement-zen.lovable.app/">🌐 Live Preview</a> · <a href="https://github.com/Muhammad-Ahmad-CO/cement-zen">💻 Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/Muhammad-Ahmad-CO/monolithstudio">Monolith Studio</a></h3>
+      <p>Premium creative-studio website combining strong typography, visual hierarchy, subtle motion and product-led presentation.</p>
+      <p><b>Stack:</b> React · TypeScript · Vite · Tailwind CSS · Framer Motion</p>
+      <p><a href="https://monolithstudio.lovable.app/">🌐 Live Preview</a> · <a href="https://github.com/Muhammad-Ahmad-CO/monolithstudio">💻 Source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/Muhammad-Ahmad-CO/hero-blossom-glow">Hero Blossom Glow</a></h3>
+      <p>Premium beauty and wellness experience with refined storytelling, product presentation, responsive layouts and conversion-focused sections.</p>
+      <p><b>Stack:</b> React · TypeScript · Vite · Tailwind CSS · Framer Motion</p>
+      <p><a href="https://github.com/Muhammad-Ahmad-CO/hero-blossom-glow">💻 Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/Muhammad-Ahmad-CO/home-hearth-store">Home Hearth Store</a></h3>
+      <p>Warm, modern home-lifestyle storefront concept designed around product discovery, responsive retail UI and future ecommerce scalability.</p>
+      <p><b>Stack:</b> React · TypeScript · Vite · Tailwind CSS</p>
+      <p><a href="https://home-hearth-store.lovable.app/">🌐 Live Preview</a> · <a href="https://github.com/Muhammad-Ahmad-CO/home-hearth-store">💻 Source</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,nextjs,nodejs,php,python,java,cpp,c,mysql,postgres,mongodb,firebase,git,github,linux,figma,photoshop,chartjs&perline=8" alt="My skills" /></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad-CO&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad-CO&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Ahmad-CO&theme=github_dark" alt="GitHub totals: repositories, stars, forks and issues" />
+</p>
+
+> The analytics above are generated from your public GitHub data and update dynamically. The public GitHub stats card can be affected by API limits/caching, so a short delay in updates is normal.
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad-CO&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution & Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmad-CO&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmad-CO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Muhammad-Ahmad-CO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com/mohammadahmadqk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/ahmadkaimkhanii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:ahmadkaimkhani40@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Building, learning and shipping — one project at a time.**
+
+</div>
+
+<!--
+Notes:
+- This README is intentionally based on current public information from Muhammad-Ahmad-CO.
+- Keep the featured-project list curated as your portfolio grows.
+- If a third-party analytics service is temporarily rate-limited, GitHub may show its image fallback/blank state until the service refreshes.
+-->
