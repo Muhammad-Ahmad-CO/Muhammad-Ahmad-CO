@@ -181,6 +181,46 @@ I'm a **Software Engineering student** focused on building modern, responsive an
 
 <!--
 Notes:
+              👋 MUHAMMAD AHMAD
+       Software Engineering Student
+       AI-Assisted Front-End Developer
+
+                 ABOUT ME
+
+        ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
+        │  REPOS │ │ STARS  │ │ COMMITS│ │ FORKS  │
+        │   11   │ │   0    │ │  LIVE  │ │  LIVE  │
+        └────────┘ └────────┘ └────────┘ └────────┘
+
+              📊 GITHUB ANALYTICS
+
+        ┌───────────────────────────────┐
+        │       GITHUB STATISTICS       │
+        │       visual statistics       │
+        │       commits / repos / etc.  │
+        └───────────────────────────────┘
+
+        ┌────────────────┐ ┌────────────────┐
+        │  TOP LANGUAGES │ │ CONTRIBUTIONS  │
+        │   PIE / BAR    │ │    GRAPH       │
+        └────────────────┘ └────────────────┘
+
+              🔥 CONTRIBUTION STREAK
+
+        ┌───────────────────────────────┐
+        │        STREAK GRAPH            │
+        └───────────────────────────────┘
+
+             📈 COMMIT ACTIVITY
+
+        ┌───────────────────────────────┐
+        │      ACTIVITY / COMMIT        │
+        │           GRAPH               │
+        └───────────────────────────────┘
+
+             🏆 GITHUB TROPHIES
+
+             ⭐ FEATURED PROJECTS
 - This README is intentionally based on current public information from Muhammad-Ahmad-CO.
 - Keep the featured-project list curated as your portfolio grows.
 - If a third-party analytics service is temporarily rate-limited, GitHub may show its image fallback/blank state until the service refreshes.
