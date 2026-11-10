@@ -31,8 +31,9 @@ Data:
     this script. Format = github-contributions-api.jogruber.de/v4 response:
     {"total": {"lastYear": N}, "contributions": [{"date","count","level"}]}
   * The hero portrait is the halftone artwork in
-    assets/portrait-halftone.b64.txt (base64 JPEG, generated from the photo
-    the owner supplied; its background is PAPER so it blends into the card).
+    assets/portrait-halftone.b64.txt (base64 JPEG of the owner's portrait
+    artwork, composited on PAPER so it blends into the card; the current
+    artwork is the owner's background-removed cutout photo).
 """
 
 import base64
@@ -280,7 +281,13 @@ def hero_card(base):
         b64 = open(PORTRAIT_B64).read().strip()
         portrait = ('<image x="604" y="38" width="240" height="240" '
                     'href="data:image/jpeg;base64,%s"%s/>'
-                    % (b64, anim("rise", base + 0.30)))
+                    '<defs><linearGradient id="fadePaper" x1="0" y1="0" '
+                    'x2="0" y2="1"><stop offset="0" stop-color="%s" '
+                    'stop-opacity="0"/><stop offset="1" stop-color="%s"/>'
+                    '</linearGradient></defs>'
+                    '<rect x="604" y="234" width="240" height="44" '
+                    'fill="url(#fadePaper)"/>'
+                    % (b64, anim("rise", base + 0.30), PAPER, PAPER))
     texts = [EYEBROW, NAME_1, NAME_2, TAGLINE, SITE + " ↗",
              "MUHAMMAD-AHMAD-CO"]
     faces = [("Kanit", "normal", 800), ("Kanit", "italic", 800),
