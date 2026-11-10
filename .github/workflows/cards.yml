@@ -1,0 +1,68 @@
+name: Refresh profile cards
+
+# Refreshes data/contributions.json, then re-renders every SVG card in
+# cards/ with scripts/generate_cards.py and commits the result.
+# Also runs when the generator, the workflow or the portrait changes.
+
+on:
+  schedule:
+    - cron: "23 18 * * *" # daily, 23:23 PKT
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_cards.py"
+      - "assets/portrait-halftone.b64.txt"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install fontTools (pyftsubset engine used by the generator)
+        run: pip install "fonttools>=4.46"
+
+      - name: Refresh contribution data
+        run: |
+          set -e
+          curl -fsSL "https://github-contributions-api.jogruber.de/v4/Muhammad-Ahmad-CO?y=last" -o /tmp/contributions.json
+          python3 - <<'PY'
+          import json, datetime
+          with open('/tmp/contributions.json') as f:
+              data = json.load(f)
+          days = data.get('contributions') or []
+          assert len(days) > 300, f'suspicious contribution payload: {len(days)} days'
+          data['generated_at'] = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+          data['source'] = 'github-contributions-api.jogruber.de/v4 (last year)'
+          with open('data/contributions.json', 'w') as f:
+              json.dump(data, f, indent=1)
+          print('contributions refreshed:', data['total'], 'generated_at:', data['generated_at'])
+          PY
+
+      - name: Render cards
+        run: python3 scripts/generate_cards.py
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json cards/
+          if git diff --cached --quiet; then
+            echo "No changes — cards already up to date."
+          else
+            git commit -m "chore: refresh profile cards [skip ci]"
+            git push
+          fi
